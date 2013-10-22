@@ -1,0 +1,21 @@
+1) Download and unzip the JFreeChart y JCommon files 
+   ("jfreechart-1.0.13" and "jcommon-1.0.16")
+
+2) Copy the "jcommon-1.0.16.jar" and the "jfreechart-1.0.13.jar" files
+   to the <jdk>\jre\lib directory.
+
+
+3)In order to use the JFreeChart y JCommon files  from within JBuilder, it must be 
+set up to use the "jcommon-1.0.16.jar" and the "jfreechart-1.0.13.jar" files.
+
+4) Choose File, Project Properties.
+
+5) In categories, select Libraries
+
+6) Select the compile tab and Add JAR/Folder
+
+7) Select the jcommon-1.0.16.jar in the dialog box.
+
+8) Select the jfreechart-1.0.13.jar in the dialog box.
+
+9) Select Open and OK
